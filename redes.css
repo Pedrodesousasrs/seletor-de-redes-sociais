@@ -1,0 +1,15 @@
+.container {
+    width: 420px;
+    background-color: transparent;
+    border: 2px solid #eee7e7;
+    border-radius: 10px;
+    padding: 20px 40px;
+    margin: 10px auto;
+    transition: background-color 0.9s; /* Suaviza a mudança de cor */
+    
+}
+
+/* Quando passar o mouse */
+.container:hover {
+    background-color: #eee7e7;
+}
